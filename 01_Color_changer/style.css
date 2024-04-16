@@ -1,0 +1,31 @@
+html{
+  margin: 0;
+}
+
+span{
+  display: block;
+}
+
+.main{
+  margin: 100px auto 100px;
+  width:  80%;
+  text-align: center;
+}
+.button{
+  width:  12rem;
+  height: 12rem;
+  border: solid #212121 0.1rem;
+  display: inline-block;
+}
+#grey{
+  background-color: grey;
+}
+#white{
+  background-color: white;
+}
+#blue{
+  background-color: blue;
+}
+#red{
+  background-color: red;
+}
