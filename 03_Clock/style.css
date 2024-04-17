@@ -1,0 +1,22 @@
+
+html{
+  background-color: black;
+  color: #fff;
+ }
+
+.container{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: black;
+  color: #fff;
+}
+#clock{
+        font-size: 40px;
+        background-color: orange;
+        padding: 20px 70px;
+        margin-top: 10px;
+        border-radius: 10px;
+}
